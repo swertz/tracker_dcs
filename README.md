@@ -1,5 +1,7 @@
 # Tracker DCS Louvain
 
+**IMPORTANT**: this repository is unmaintained. Head over [here](https://github.com/jdefaver/tracker_dcs) for the latest version!
+
 ## Overall Architecture
 
 The system follows a microservice architecture. 
